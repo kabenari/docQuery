@@ -16,6 +16,8 @@ This project solves that. I can point it at a URL, let it work its magic, and th
 
 ## 🛠️ How It Works: The "Technical Shit" Explained
 
+![Application Screenshot](assets/screenshot.png)
+
 This isn't just a simple chatbot. It’s a full Retrieval-Augmented Generation (RAG) system I put together to be fast, private, and efficient. Here’s a breakdown of the stack:
 
 * **The Core Idea (RAG)**
